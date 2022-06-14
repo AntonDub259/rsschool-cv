@@ -3,7 +3,7 @@
 * Phone: *+79006243858*
 * E-mail: *toshich.dubkov@yandex.ru*
 #### Summary
-
+No coding experience yet. I want to learn this.
 #### Skills
 * HTML
 * CSS
