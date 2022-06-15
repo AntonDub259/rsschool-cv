@@ -11,12 +11,13 @@ No coding experience yet. I want to learn this.
 * VSCode
 #### Code examples
 <pre>
-<code> &lt;p class="cascade">Важный текст о вреде сложного CSS&gt;
+<code> &lt;p class="cascade"&gt;Важный текст о вреде сложного CSS&lt;/p&gt;
 &lt;style&gt;
   .cascade {
   font-size: 25px;}
-  p {padding: 15px;} &it;/code&gt;
-&lt;/pre&gt; </code>
+  p {padding: 15px;}
+  &lt;/style&gt;
+</code>
 </pre>
 #### Education
 Rolling Scopes school (Frontend developer) - Stage #0.
